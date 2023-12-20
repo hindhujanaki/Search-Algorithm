@@ -18,8 +18,8 @@ To write a program to perform linear search and binary search using python progr
 6.	Repeat steps 2 to 5 until low meets high
 ## Program:
 i)	#Use a linear search method to match the item in a list.
-'''
 ```
+'''
 Program for linear search method to match the item in a list
 Developed by:G.Hindhu
 RegisterNumber: 23014493
@@ -42,7 +42,7 @@ else:
     print(array)
     print("Element found at index: ",result)
 
-
+```
 
 
 ii)	# Find the element in a list using Binary Search(Iterative Method).
@@ -75,8 +75,9 @@ else:
     print(array)
     print("Element found at index: ",result)
 
-    
+```  
 iii) # Find the element in a using Binary Search(recursive Method).
+```
 ''' 
 Program to find the element in a list using Binary Search (recursive Method).
 Developed by: your name:G.Hindhu
